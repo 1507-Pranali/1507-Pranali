@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Pranali 👋
 
-<!--
-**1507-Pranali/1507-Pranali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I am a final-year Computer Engineering student interested in software development, problem solving and building useful applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+
+- C++
+- Java
+- Python
+- DSA
+- OOP
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Django
+
+### 🚀 Projects
+
+- **EnableEd** – Learning Platform for Disabled Students
+- **AI Study Buddy** – AI-based study assistant
+- **Student Feedback Review System**
+- **Saree Draping Project**
+
+### 🌱 Currently Learning
+
+- Advanced DSA
+- Java
+- Web Development
+- AI/ML
+
+### 📫 Connect with Me
+
+- LinkedIn: [My LinkedIn](YOUR_LINKEDIN_LINK)
+- Portfolio: Coming soon
+
+---
+
+⭐ Thanks for visiting my profile!
