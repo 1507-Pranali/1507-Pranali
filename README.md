@@ -33,7 +33,7 @@ I am a final-year Computer Engineering student interested in software developmen
 
 ### 📫 Connect with Me
 
-- LinkedIn: [My LinkedIn](YOUR_LINKEDIN_LINK)
+- LinkedIn: https://www.linkedin.com/in/pranali-raundal-597573319
 - Portfolio: Coming soon
 
 ---
